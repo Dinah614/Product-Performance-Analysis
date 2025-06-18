@@ -15,9 +15,14 @@ It shows the sales data record of a company that deals in the sales of Planes, C
 
 ![Screenshot (82)](https://github.com/user-attachments/assets/1351f0b7-4a1b-4ba9-9ade-17bc4cc3698c)
 
+### DATA CLEANING
+The cleaning process was one of the most important aspects of this project as it eliminated factors that could bring in bias or errors into our analysis.
+I took the following steps to ensure the data was cleaned:
+1.	I checked for duplicate rows by selecting the table, navigating to the data tab and clicking on “Remove Duplicates”. There was no duplicate in the dataset.
 
+![Screenshot (88)](https://github.com/user-attachments/assets/ab70a079-9dde-4b7e-9884-7ae34343fe0f)
 
-
+2.  I formatted the Order Date column to a more standard date format. I did this by selecting the date column and applying custom formatting. Also I change the date column to Month and Year only by creating a new column date and input the “TEXT(Order Date column, “MMM YYY”) thereby having the Month and Year Only for the Order Date.
 
 
 

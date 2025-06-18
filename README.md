@@ -50,8 +50,7 @@ New Date Column
 ![WhatsApp Image 2025-06-18 at 11 42 11 (1)](https://github.com/user-attachments/assets/955c1582-9761-4f64-8986-d15bdc39ae78)
 
 ### ANALYSIS
-I loaded the Clean Data Set into PowerBI for the further analysis and Visualization in order to answer business questions and meet up with objectives.
-I used a line chart to show the total sale generated over period of months.
+I loaded the Clean Data Set into MySQL for the further analysis in order to answer business questions and meet up with objectives.
 
 
 

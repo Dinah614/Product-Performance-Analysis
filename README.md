@@ -22,7 +22,95 @@ I took the following steps to ensure the data was cleaned:
 
 ![Screenshot (88)](https://github.com/user-attachments/assets/ab70a079-9dde-4b7e-9884-7ae34343fe0f)
 
-2.  I formatted the Order Date column to a more standard date format. I did this by selecting the date column and applying custom formatting. Also I change the date column to Month and Year only by creating a new column date and input the “TEXT(Order Date column, “MMM YYY”) thereby having the Month and Year Only for the Order Date.
+2.  I formatted the Order Date column to a more standard date format. I did this by selecting the date column and applying custom formatting. Also I change the date column to Month and Year only by creating a new column date and input the “TEXT(Order Date column, “MMMM-YYYY”) thereby having the Month and Year Only for the Order Date.
+
+![WhatsApp Image 2025-06-18 at 10 49 56](https://github.com/user-attachments/assets/1dbbf150-1819-4249-88e2-00327d770d61)
+
+New Date Column
+3. I deleted the initial Order Date column because they weren’t important to our analysis.
+
+![WhatsApp Image 2025-06-18 at 10 54 29](https://github.com/user-attachments/assets/a5b76246-1be6-4d18-8654-dc502448d02c)
+
+4. I formatted the entire table with a bright table style to make the table presentable “CTRL +A”, then I went to the home tab and took  “Format as Table” and chose a table style.
+
+![WhatsApp Image 2025-06-18 at 11 05 14](https://github.com/user-attachments/assets/3decaa10-f835-4569-aa2d-93328ca60dc4)
+![WhatsApp Image 2025-06-18 at 11 05 14 (1)](https://github.com/user-attachments/assets/6949a193-327f-443f-bc0d-5bfcca2d1d02)
+
+5. I also formatted the column headers to Proper Case by inserting a row below the column headers, inserted “=PROPER(Table2[[#Headers],[product_id]])”, copied the entire row and pasted it on the above row to replace the old column headers.
+
+  ![WhatsApp Image 2025-06-18 at 11 18 25](https://github.com/user-attachments/assets/8cfedfa9-2bc9-4fa9-9bae-8482c05cdc56)
+ ![WhatsApp Image 2025-06-18 at 11 18 26](https://github.com/user-attachments/assets/efee490b-9ae7-4a10-9baf-d2deda2e1b76)
+![WhatsApp Image 2025-06-18 at 11 18 27 (1)](https://github.com/user-attachments/assets/c91ebac3-f080-4326-b142-776ee71888f1)
+![WhatsApp Image 2025-06-18 at 11 18 27](https://github.com/user-attachments/assets/a237f429-eddb-4980-a5ff-07d450408ef0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

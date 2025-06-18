@@ -36,15 +36,22 @@ New Date Column
 ![WhatsApp Image 2025-06-18 at 11 05 14](https://github.com/user-attachments/assets/3decaa10-f835-4569-aa2d-93328ca60dc4)
 ![WhatsApp Image 2025-06-18 at 11 05 14 (1)](https://github.com/user-attachments/assets/6949a193-327f-443f-bc0d-5bfcca2d1d02)
 
-5. I also formatted the column headers to Proper Case by inserting a row below the column headers, inserted “=PROPER(Table2[[#Headers],[product_id]])”, copied the entire row and pasted it on the above row to replace the old column headers.
+5. I also formatted the column headers to Proper Case by inserting a row below the column headers, inserted “=PROPER(Table2[[#Headers],[product_id]])”, copied the entire row and pasted it on the above row to replace the old column headers and deleting the newly created rows.
 
   ![WhatsApp Image 2025-06-18 at 11 18 25](https://github.com/user-attachments/assets/8cfedfa9-2bc9-4fa9-9bae-8482c05cdc56)
  ![WhatsApp Image 2025-06-18 at 11 18 26](https://github.com/user-attachments/assets/efee490b-9ae7-4a10-9baf-d2deda2e1b76)
 ![WhatsApp Image 2025-06-18 at 11 18 27](https://github.com/user-attachments/assets/a237f429-eddb-4980-a5ff-07d450408ef0)
 ![WhatsApp Image 2025-06-18 at 11 18 27 (1)](https://github.com/user-attachments/assets/c91ebac3-f080-4326-b142-776ee71888f1)
+![WhatsApp Image 2025-06-18 at 11 18 27 (2)](https://github.com/user-attachments/assets/5b26968b-656d-469e-ad5a-68dd25c92bce)
 
+6. Carefully looking at the data, not all orders were shipped. Some of the orders were cancelled, disputed and on hold. Revenue cannot be calculated on orders that were Cancelled, I will filter the data sheet and select only the data that orders were shipped and resolved.Create a new worksheet only with the shipped and resolved order data.
 
+![WhatsApp Image 2025-06-18 at 11 42 11](https://github.com/user-attachments/assets/18ce22a8-9975-4e45-bc69-37138e2794bf)
+![WhatsApp Image 2025-06-18 at 11 42 11 (1)](https://github.com/user-attachments/assets/955c1582-9761-4f64-8986-d15bdc39ae78)
 
+### ANALYSIS
+I loaded the Clean Data Set into PowerBI for the further analysis and Visualization in order to answer business questions and meet up with objectives.
+I used a line chart to show the total sale generated over period of months.
 
 
 

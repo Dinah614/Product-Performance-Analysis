@@ -13,6 +13,9 @@ This project showcases my ability to manipulate and derive insights from large d
 
 It shows the sales data record of a company that deals in the sales of Planes, Cars and Motorcycles from April 2003 to April 2005 i.e. for the period of thirteen (24) months, it comprises of 28 distinct columns and 2822 rows. The columns names are: Product_Id,Order Number, Order_Line_Number, Total Order, Product Line, Msrp, Product Code, Quantity Ordered, Price Each, Sales, Order Date, Order Day, Status, Qtr_Id, Month_Id, Year_Id, Customer Name, Phone, Address_Line1, Address_Line2, City, State, Postal Code, Country, Territory, Contact_Last_Name, Contact_First_Name, Deal Size.
 
+![Screenshot (82)](https://github.com/user-attachments/assets/1351f0b7-4a1b-4ba9-9ade-17bc4cc3698c)
+
+
 
 
 

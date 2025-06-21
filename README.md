@@ -51,6 +51,12 @@ New Date Column
 
 ### ANALYSIS
 I loaded the Clean Data Set into MySQL for the further analysis in order to answer business questions and meet up with objectives.
+## KPIs Requirements
+I need to need to analyze key indicators for our Product Sales data to gain insights into the business performance. Specifically i want to calculate the following metrics using MySQL
+1. # Total Revenue: The sum of all products ordered.
+2. # Avereage Order Value: The average amount spent per Order. Calculated by dividing the Sum of Total Revenue by the Total Number of Orders.
+3. # Total Products Sold: The sum of the Quantity of products sold.
+4. # Average Product Per Order: 
 
 
 

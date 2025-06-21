@@ -49,9 +49,9 @@ New Date Column
 ![WhatsApp Image 2025-06-18 at 11 42 11](https://github.com/user-attachments/assets/18ce22a8-9975-4e45-bc69-37138e2794bf)
 ![WhatsApp Image 2025-06-18 at 11 42 11 (1)](https://github.com/user-attachments/assets/955c1582-9761-4f64-8986-d15bdc39ae78)
 
-### ANALYSIS
+## ANALYSIS
 I loaded the Clean Data Set into MySQL for the further analysis in order to answer business questions and meet up with objectives.
-## KPIs Requirements
+# KPIs Requirements
 I need to need to analyze key indicators for our Product Sales data to gain insights into the business performance. Specifically i want to calculate the following metrics using MySQL
 1. Total Revenue: The sum of all products ordered.
 2. Avereage Order Value: The average amount spent per Order. Calculated by dividing the Sum of Total Revenue by the Total Number of Orders.
@@ -63,7 +63,7 @@ I need to need to analyze key indicators for our Product Sales data to gain insi
    # Charts Requirement
    I would like to visualize various aspects of our Products Sales Data to gain insights and understand key trends. I've identified the following requirements for creating Charts.
    1. Daily Trend for Total Orders: I will create a Bar Chart that displays the daily trend of total orders over a specific period of time.This Chart will help us identify any patterns or fluctuations in order volume on a daily basis.
-   2. Percentage of sales by product category: Create a Pie Chart that shows
+   2. Percentage of sales by product category: Create a Pie Chart that shows the distribution of sales across different product categories and their contribution to the overall sales.
    3. 
 
 

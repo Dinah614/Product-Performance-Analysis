@@ -52,7 +52,7 @@ New Date Column
 # ANALYSIS
 I loaded the Clean Data Set into MySQL for the further analysis in order to answer business questions and meet up with objectives.
 ## KPIs Requirements
-I need to need to analyze key indicators for our Product Sales data to gain insights into the business performance. Specifically i want to calculate the following metrics using MySQL
+I need to analyze key indicators for our Product Sales data to gain insights into the business performance. Specifically i want to calculate the following metrics using MySQL
 1. Number of Product Category: The different products type being sold.
   ![image](https://github.com/user-attachments/assets/138fa9f7-4c3b-4a85-91ad-dfb352822f64)
 

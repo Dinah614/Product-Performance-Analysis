@@ -88,6 +88,8 @@ I need to analyze key indicators for our Product Sales data to gain insights int
 
    ![image](https://github.com/user-attachments/assets/a6e356ff-5e35-4671-b738-6a1224f4948b)
 
+## Interactive Dashboard
+![Screenshot (117)](https://github.com/user-attachments/assets/1d9704a4-70be-4562-ba75-77d08afa3a02)
 
 
 

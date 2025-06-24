@@ -89,7 +89,8 @@ I need to analyze key indicators for our Product Sales data to gain insights int
    ![image](https://github.com/user-attachments/assets/a6e356ff-5e35-4671-b738-6a1224f4948b)
 
 ## Interactive Dashboard
-![Screenshot (117)](https://github.com/user-attachments/assets/1d9704a4-70be-4562-ba75-77d08afa3a02)
+![Screenshot (117)](https://github.com/user-attachments/assets/7b9108ea-268d-4645-b4cf-aab30a7b4683)
+
 
 ### INSIGHTS
 - Classic Cars accounted for product with highest sales of $2,817,515.14 while Trains accounted for product with lowest sales of $194,804.26.

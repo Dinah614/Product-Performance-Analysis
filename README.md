@@ -94,10 +94,9 @@ I need to analyze key indicators for our Product Sales data to gain insights int
 
 ### INSIGHTS
 - Classic Cars accounted for product with highest sales of $2,817,515.14 while Trains accounted for product with lowest sales of $194,804.26.
-- The Top five products in relation to quantity ordered includes 
-
-
-
+- The Top five products in relation to quantity ordered includes Classic Cars, Vintage Cars,Trucks and Buses, Motorcycles  and Planes which reflects the Top five products by Sales which is an indication that high sales were gotten from high quantity odered of these products.
+- The highest sales in the year 2003 and 2004 took place in the months of October and November which is an indication that more money is spent towards the close of the year which makes money more scarce the following year thereby reducing the purchasing value of all the product.
+- A Total Sales of $7.79M was recorded for the 290 quantity ordered among the 7 products for Sales.
 
 
 
